@@ -1,1 +1,24 @@
-
+{
+  "trailer": {
+    "title": "Trailer v3.6.5",
+    "url": "https://github.com/nek0-del/pixelbase/releases/download/v3.6.5/PixelBase-trailer-3.6.5.1.mp4",
+    "image": "https://github.com/nek0-del/pixelbase/releases/download/v3.6.5/PixelBase-trailer-3.6.5-miniature.jpg",
+    "soon": "Le trailer arrive très bientôt. Il s'affichera ici tout seul."
+  },
+  "items": [
+    {
+      "version": "3.6.5",
+      "date": "2026-10-14",
+      "title": "La grosse mise à jour",
+      "points": [
+        "Accueil : ton perso vole dans le décor de PixelBase, avec la dernière nouveauté et le trailer.",
+        "Nouveau logo : le titre chromé PixelBase devient l'icône de l'appli.",
+        "L'assistant hitec t'aide à créer ta propre appli Discord : PixelBase peut être partagé en public.",
+        "Vocal de l'hôte : tes amis reçoivent ton vocal avec un simple code, sans rien créer.",
+        "Mode sombre pour l'overlay et pour le launcher.",
+        "Mode performance et overlay beaucoup plus léger en jeu.",
+        "Les gens déjà présents dans le vocal apparaissent tout seuls."
+      ]
+    }
+  ]
+}
