@@ -1,11 +1,27 @@
 {
   "trailer": {
-    "title": "Trailer v3.6.5",
-    "url": "https://github.com/nek0-del/pixelbase/releases/download/v3.6.5/PixelBase-trailer-3.6.5.1.mp4",
-    "image": "https://github.com/nek0-del/pixelbase/releases/download/v3.6.5/PixelBase-trailer-3.6.5-miniature.jpg",
+    "title": "Trailer v4.0.0",
+    "url": "https://github.com/nek0-del/pixelbase/releases/download/v4.0.0/PixelBase-trailer-Le-Canap-4.0.mp4",
+    "image": "https://github.com/nek0-del/pixelbase/releases/download/v4.0.0/PixelBase-trailer-Le-Canap-4.0-miniature.jpg",
     "soon": "Le trailer arrive très bientôt. Il s'affichera ici tout seul."
   },
   "items": [
+    {
+      "version": "4.0.0",
+      "date": "2026-10-20",
+      "title": "PixelBase 4.0.0 : Le Canap en grand",
+      "points": [
+        "Pixel Party (en bêta) entièrement refait en 3D : 3 plateaux détaillés et animés (plage, ville néon, station spatiale) avec carrefours, raccourcis, caméra qui suit le joueur et mini-carte.",
+        "Dé à thème, case Chance, boutique, duels, objets (téléporteur, triple dé, aspirateur, voleur, pièce dorée…) et coup de pouce dans les derniers tours.",
+        "56 mini-jeux en 3D, posés sur des arènes décorées, avec de vrais objets en volume (ballons, canons, météores, lucioles, canards, piñata…), effets, couronne du meneur, présentation et podium.",
+        "Nouveaux persos 3D façon figurine : corps lisse, yeux brillants, chapeaux et accessoires en volume, partout dans le Canap.",
+        "Mème Machine, Le Procès et PhonePixel en plein écran sur un décor 3D (plateau télé, tribunal, atelier) avec vos persos qui sautillent quand ils parlent, et une musique pour chaque jeu.",
+        "PhonePixel en dessin libre : pinceau lisse, gomme, pot de peinture, nuancier, grande feuille qui remplit l'écran.",
+        "Des hitec plus malins avec un niveau réglable (Facile, Normal, Difficile) : ils dessinent vraiment la phrase, devinent, choisissent leur chemin et jouent aux mini-jeux selon leur niveau.",
+        "Menu Options dans chaque jeu (son, qualité 3D, caméra, pseudos, règles), bouton quitter, et l'écran du jeu tient toujours sans défilement.",
+        "Musiques et bruitages refaits, interface dans la DA PixelBase, et de nombreuses corrections (texte net, parasols, arbres dans l'eau, écho de la musique coupée, canap qui continuait en arrière-plan…)."
+      ]
+    },
     {
       "version": "3.6.5",
       "date": "2026-10-14",
